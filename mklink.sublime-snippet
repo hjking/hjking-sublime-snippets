@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[[${1:Display_Text}](${2:http://example.com/})]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>mklink</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <!-- <scope>source.python</scope> -->
+    <!-- Optional: Description to show in the menu -->
+    <description>Make Link</description>
+</snippet>
