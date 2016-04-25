@@ -1,12 +1,13 @@
 <snippet>
-    <content><![CDATA[[${1:Display_Text}][${2:ID}]
+    <content><![CDATA[
+[${1:Display_Text}][${2:ID}]
 
 [${2:ID}]: ${3:http://example.com/}
 ]]></content>
     <!-- Optional: Tab trigger to activate the snippet -->
     <tabTrigger>md-mkarc</tabTrigger>
     <!-- Optional: Scope the tab trigger will be active in -->
-    <!-- <scope>source.markdown</scope> -->
+    <scope>text.html.markdown.multimarkdown, text.html.markdown</scope>
     <!-- Optional: Description to show in the menu -->
     <description>Make Reference</description>
 </snippet>
