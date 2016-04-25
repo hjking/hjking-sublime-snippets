@@ -21,9 +21,9 @@ These snippets can now be installed via [Sublime Package Control](http://wbond.n
     $ cd ~/.Sublime Text 3/Packages/
     $ git clone git://github.com/kinghom/sublime-snippets.git sublime-snippets
 
-## Available Components
+## Snippets and Bindings
 
-Component                             | Usage
+Snippet                               | Tab Trigger
 :------------------------------------ | :-----------:
 Make a Markdown reference link        | mkarc + tab
 Make a Markdown picture link          | mkpic + tab
