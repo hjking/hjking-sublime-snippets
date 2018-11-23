@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-case(${1})
+case (${1})
     ${2}: begin
         ${3:;}
     end

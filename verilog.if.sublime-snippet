@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+if (${1}) 
+    begin
+        ${2}
+    end
+]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.verilog</scope>
+</snippet>

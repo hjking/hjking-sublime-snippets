@@ -1,11 +1,7 @@
 <snippet>
     <content><![CDATA[
-if (${1}) begin
-    ${2}
-end else begin
-    ${3}
-end
+? ${1}:${2};
 ]]></content>
-    <tabTrigger>if else</tabTrigger>
+    <tabTrigger>conditional ?</tabTrigger>
     <scope>source.verilog</scope>
 </snippet>

@@ -1,7 +1,7 @@
 
 <snippet>
     <content><![CDATA[
-always@(posedge clk)begin
+always @ (posedge clk) begin
     ${1}
 end
 ]]></content>

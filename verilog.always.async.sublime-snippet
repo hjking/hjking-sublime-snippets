@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-always@(${1})begin
+always @ (${1}) begin
     ${2}
 end
 ]]></content>
